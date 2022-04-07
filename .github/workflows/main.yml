@@ -10,8 +10,8 @@ jobs:
     steps:
     - name : kkkkk
       run : ls -la
-    - name : kkdfkflsls
-      uses : actions/checkout@v1
-    - name : lfksfsffsfs
-      run : ls -la
+#    - name : kkdfkflsls
+#      uses : actions/checkout@v1
+#    - name : lfksfsffsfs
+#      run : ls -la
     
