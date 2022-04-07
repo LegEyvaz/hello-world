@@ -1,0 +1,17 @@
+name : Mygit
+on:
+  push:
+    branches:
+      - master
+      
+jobs:
+  myyyyy:
+    runs_on : ubuntu-latest
+    steps:
+    - name : kkkkk
+      run : ls -a
+    - name : kkdfkflsls
+      uses : actions/checkout@v1
+    - name : lfksfsffsfs
+      run : ls -a
+    
