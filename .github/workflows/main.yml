@@ -5,13 +5,13 @@ on:
       - master
       
 jobs:
-  myyyyy:
+  my_testing:
     runs_on : ubuntu-latest
     steps:
     - name : kkkkk
-      run : ls -a
+      run : ls -la
     - name : kkdfkflsls
       uses : actions/checkout@v1
     - name : lfksfsffsfs
-      run : ls -a
+      run : ls -la
     
